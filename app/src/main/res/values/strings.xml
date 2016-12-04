@@ -1,3 +1,20 @@
 <resources>
+    <string name="link_register">http://192.168.56.2/android/android/registration.php</string>
+    <string name="link_login">http://192.168.56.2/android/android/login.php</string>
+
     <string name="app_name">CICTEP</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logo">Logo</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="register">Register</string>
+    <string name="err_empty">This field is required</string>
+    <string name="err_name">Invalid name</string>
+    <string name="err_username">Letters and numbers only</string>
+    <string name="err_username_length">Username should be at least 6 characters</string>
+    <string name="err_password_length">Password should be at least 6 characters</string>
+    <string name="logout">LOGOUT</string>
 </resources>
